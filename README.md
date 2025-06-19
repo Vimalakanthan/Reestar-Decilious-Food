@@ -18,6 +18,3 @@ Click here to view the live website (https://vimalakanthan.github.io/Reestar-Dec
 
 🙌 Acknowledgment
 Thanks to everyone who encouraged me to start this journey. Many more projects coming soon!
-Follow me
-intagram : 
-Linkedin :
