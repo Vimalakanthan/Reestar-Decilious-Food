@@ -14,7 +14,7 @@ Improving design sense and responsiveness
 
 
 🔗 Live Link
-Click here to view the live website ()
+Click here to view the live website (https://vimalakanthan.github.io/Reestar-Decilious-Food/)
 
 🙌 Acknowledgment
 Thanks to everyone who encouraged me to start this journey. Many more projects coming soon!
